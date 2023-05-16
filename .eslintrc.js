@@ -24,5 +24,10 @@ module.exports = {
     'import/no-extraneous-dependencies': 0,
     'import/no-duplicates': 0,
     'jsx-quotes': 0,
+    'class-methods-use-this': 0,
+    'no-console': 0,
+    'prefer-const': 0,
+    'no-useless-return': 0,
+    'react/no-unused-state': 0,
   },
 };
