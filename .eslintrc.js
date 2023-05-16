@@ -21,5 +21,8 @@ module.exports = {
     'react/jsx-filename-extension': 0,
     'react/state-in-constructor': 0,
     'no-unused-vars': 0,
+    'import/no-extraneous-dependencies': 0,
+    'import/no-duplicates': 0,
+    'jsx-quotes': 0,
   },
 };
