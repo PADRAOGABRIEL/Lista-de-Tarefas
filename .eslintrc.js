@@ -29,5 +29,8 @@ module.exports = {
     'prefer-const': 0,
     'no-useless-return': 0,
     'react/no-unused-state': 0,
+    'quotes': 0,
+    'quote-props': 0,
+    'eol-last': 0,
   },
 };
