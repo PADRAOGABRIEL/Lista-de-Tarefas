@@ -86,7 +86,7 @@ export default class Main extends Component {
 
     return (
       <div className="main">
-        <h1>Lista de Tarefas</h1>
+        <h1>Task List</h1>
 
         <Form
           handleSubmit={this.handleSubmit}
